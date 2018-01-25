@@ -1,0 +1,11 @@
+#
+#	Anything following a pound character is a comment
+#
+#
+3	#	number of data points
+#
+120 34 4.5 65 80 90 66			#	data point 1
+#
+1200 -45 12.5 66 80 91 70		#	data point 2
+#
+4412 12000 135.56 70 75 92 33	#	data point 3
